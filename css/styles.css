@@ -318,7 +318,8 @@ header {
 /* footer */
 .footer {
   background-color: var(--secondary-background-color);
-  padding: 60px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .logo {
